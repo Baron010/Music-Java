@@ -13,7 +13,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://baron010-music-java.glitch.me`); //replace jagroshmusicbot with your project name بدل jagroshmusicbot بي اسم البروجكت حقك
+  http.get(`http://baron010-music-java.glitch.me`);
 }, 280000); 
 
 var shell = require('shelljs');

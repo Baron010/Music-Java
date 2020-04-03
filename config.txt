@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = NjIyMTQwOTUwOTE5MTE4ODU5.XXv9ew.rrEeQ3d6ulWCYewnhHRX0ysOrNI
+token = "BOT_TOKEN"
 
 
 // This sets the owner of the bot
@@ -107,7 +107,7 @@ playlistsfolder = Playlists
 // By default, the bot will DM the owner if the bot is running and a new version of the bot
 // becomes available. Set this to false to disable this feature.
 
-updatealerts = true
+updatealerts = false
 
 
 // Changing this changes the lyrics provider
